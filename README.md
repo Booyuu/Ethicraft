@@ -2,30 +2,35 @@
 
 **Build Trust. Prove Skill. Lead Web3.**
 
-Ethicraft is the world’s first certification platform for Web3 professionals, combining **technical skills testing** and **ethical standards**.  
-Our mission is to reduce fraud, increase trust, and set unified industry standards.
+Ethicraft is the first Web3 certification platform that combines **technical skills** and **professional ethics**,  
+with **on-chain anti-cheating mechanisms** to ensure every credential is transparent, verifiable, and tamper-proof.
 
-## Value Proposition
-Web3 Certification Platform for Skills & Ethics, with on-chain anti-cheating and verifiable credentials.
+## 🚀 Current Status
+- ✅ **MVP launched on BNB Testnet**  
+- 🧑‍💻 Basic exam certification recorded on-chain  
+- 🔐 Anti-cheating mechanism:
+  - Hash-based randomization
+  - AI proctoring (camera monitoring, face recognition, keystroke & pointer dynamics monitoring)
+- 📜 Whitepaper & Pitch Deck available in `/docs`
 
+## 🔗 Deployment
+- **Blockchain**: Binance Smart Chain (BNB Chain) Testnet  
+- **Testnet Explorer**: [BscScan Testnet](https://testnet.bscscan.com/)  
+- **Demo Contract Address**: *TBA after deployment*  
 
-## Key Features
-- On-chain exam system with **anti-cheating mechanisms**  
-- Multi-level certifications (L1–L3)  
-- Blockchain-verified credentials (SBT/Verifiable Certificates)  
-- Enterprise integration (HR verification API, compliance support)  
+## 🛠️ Tech Stack
+- **Blockchain**: BNB Chain (EVM-compatible)  
+- **Smart Contracts**: Solidity + Hardhat  
+- **Frontend**: Vue 3 + Tailwind  
+- **Backend**: Node.js (Express)  
+- **Database**: PostgreSQL / MongoDB  
+- **Integration**: ethers.js / web3.js  
+- **Deployment**: Docker + Cloud  
+- **Wallets**: MetaMask, WalletConnect  
 
-## Tech Stack
-- Frontend: Vue 3 + Tailwind  
-- Backend: Node.js / Express  
-- Smart Contracts: Solidity + Hardhat  
-- Database: PostgreSQL / MongoDB  
-- Deployment: Docker + Cloud (AWS/Alibaba Cloud)  
+## 📌 Roadmap
+- **Aug 2025**: MVP frontend completed  
+- **Q4 2025**: Smart contract beta on BNB Testnet    
 
-## Roadmap
-- ✅ MVP Exam Frontend (Aug 2025)  
-- 🚀 On-chain Anti-cheating (Beta, Q4 2025)  
-- 🌍 Enterprise Pilot Partnerships (2026)  
-
-## License
-[MIT](LICENSE)
+## 📖 License
+This project is licensed under the [MIT License](LICENSE).
